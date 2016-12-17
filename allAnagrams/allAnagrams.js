@@ -29,6 +29,7 @@ var allAnagrams = function(string) {
 		}
 }				
 		
+		// done 
 		// anagramsArr.push(string[1]) ;
 		// allAnagrams(str) ;
 		return str ;
